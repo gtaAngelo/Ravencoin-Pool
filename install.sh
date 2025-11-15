@@ -22,7 +22,7 @@ sudo add-apt-repository -y ppa:bitcoin/bitcoin
 sudo add-apt-repository -y ppa:certbot/certbot
 
 sudo apt update
-sudo apt install -y libdb4.8-dev libdb4.8++-dev libssl-dev libboost-all-dev libminiupnpc-dev libtool autotools-dev redis-server
+sudo apt install -y libdb5.3-dev libdb5.3++-dev libssl-dev libboost-all-dev libminiupnpc-dev libtool autotools-dev redis-server
 sudo apt install -y sudo git npm nodejs nginx python-certbot-nginx
 
 sudo systemctl enable fail2ban
