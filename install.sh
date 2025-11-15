@@ -2,7 +2,7 @@
 
 # This is the Pool install script.
 echo "JAMPS Ravencoin Pool install script."
-echo "Please do NOT run as root, run as the pool user!"
+echo "Please do NOT run as root, run as the pool user!:"
 
 echo "Installing... Please wait!"
 
